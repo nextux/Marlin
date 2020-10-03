@@ -184,7 +184,3 @@ cmake-build-*
 
 #Python
 __pycache__
-Marlin/_Bootscreen.h
-Marlin/_Statusscreen.h
-Marlin/Configuration.h
-Marlin/Configuration_adv.h
